@@ -1,0 +1,36 @@
+<../../mkconfig
+
+TARG=\
+	vi.dis\
+	wm.dis\
+	sh.dis
+MODULES=\
+	vi/buffers.b\
+	vi/change.b\
+	vi/cmd.b\
+	vi/ex.b\
+	vi/filter.b\
+	vi/interp.b\
+	vi/misc.b\
+	vi/subs.b\
+
+SYSMODULES=\
+	arg.m\
+	bufio.m\
+	draw.m\
+	daytime.m \
+	keyboard.m\
+	names.m\
+	plumbmsg.m\
+	regex.m\
+	readdir.m\
+	sh.m\
+	string.m\
+	sys.m\
+	tk.m\
+	tkclient.m\
+	wait.m \
+
+DISBIN=$ROOT/dis/d
+
+<$ROOT/mkfiles/mkdis
