@@ -10,6 +10,9 @@ alphabet-grid alphabet-grid
 grid alphabet-grid
 alphabet-main alphabet-main
 main alphabet-main
+d/wm d-wm
+d/sh d-sh
+d/vi d-vi
 ar ar
 asm asm
 disdump asm
