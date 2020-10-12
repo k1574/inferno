@@ -26,8 +26,8 @@ Qwm: module {
 	init:	fn(nil: ref Context, args: list of string);
 };
 
-program := "d/sh";
-deftag: con "Hide d/sh";
+program := "q/sh";
+deftag: con "Hide q/sh q/vi acme" ;
 
 Tagfgcolor: con Draw->White;
 Tagbgcolor: con Draw->Greyblue;
