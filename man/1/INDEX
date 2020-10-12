@@ -10,9 +10,9 @@ alphabet-grid alphabet-grid
 grid alphabet-grid
 alphabet-main alphabet-main
 main alphabet-main
-d/wm d-wm
-d/sh d-sh
-d/vi d-vi
+q/wm q-wm
+q/sh q-sh
+q/vi q-vi
 ar ar
 asm asm
 disdump asm

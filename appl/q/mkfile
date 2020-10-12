@@ -31,6 +31,6 @@ SYSMODULES=\
 	tkclient.m\
 	wait.m \
 
-DISBIN=$ROOT/dis/d
+DISBIN=$ROOT/dis/q
 
 <$ROOT/mkfiles/mkdis
