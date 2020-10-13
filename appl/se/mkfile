@@ -1,0 +1,6 @@
+<../../mkconfig
+
+DIRS = tab
+
+<$ROOT/mkfiles/mksubdirs
+

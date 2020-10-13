@@ -1,0 +1,13 @@
+<../../../mkconfig
+
+TARG =\
+	add.dis\
+	rm.dis\
+
+SYSMODULES=\
+	sys.m\
+	bufio.m\
+
+DISBIN=$ROOT/dis/se/tab
+
+<$ROOT/mkfiles/mkdis

@@ -16,5 +16,6 @@ DIRS=\
 	svc\
 	tiny\
 	wm\
+	se\
 
 <$ROOT/mkfiles/mksubdirs
