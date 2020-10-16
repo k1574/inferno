@@ -27,7 +27,7 @@ Qwm: module {
 };
 
 program := "q/sh";
-deftag: con "Hide q/sh q/vi acme" ;
+deftag: con "Cols Hide q/sh q/vi acme" ;
 
 Tagfgcolor: con Draw->White;
 Tagbgcolor: con Draw->Greyblue;
