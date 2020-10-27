@@ -177,6 +177,7 @@ TARG=\
 	xd.dis\
 	yacc.dis\
 	zeros.dis\
+	hget.dis\
 
 MODULES=\
 
@@ -208,6 +209,7 @@ SYSMODULES=\
 	url.m\
 	webget.m\
 	workdir.m\
+	mhttp.m\
 
 DISBIN=$ROOT/dis
 

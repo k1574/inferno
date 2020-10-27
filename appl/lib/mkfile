@@ -155,6 +155,7 @@ TARG=\
 	workdir.dis\
 	writegif.dis\
 	xml.dis\
+	mhttp.dis\
 
 MODULES=
 
@@ -243,3 +244,5 @@ vac.dis:	$ROOT/module/vac.m $ROOT/module/venti.m
 dial.dis:	$ROOT/module/dial.m
 styxflush.dis:	$ROOT/module/styxflush.m
 msgio.dis:	$ROOT/module/msgio.m
+mhttp.b: $ROOT/module/mhttp.m
+
