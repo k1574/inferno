@@ -5,7 +5,7 @@
 
 #	On Nt systems, the ROOT path MUST be of the form `drive:/path'
 #ROOT=/usr/inferno # Plan9.
-ROOT=$HOME/local/inferno
+ROOT=$INFERNO
 
 #
 #	Specify the flavour of Tk (std for standard builds)
